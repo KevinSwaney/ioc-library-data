@@ -1,0 +1,20 @@
+[
+  {
+    "type": "domain",
+    "value": "example-malicious.com",
+    "date_added": "2026-10-26",
+    "source": "example",
+    "confidence": "low",
+    "verified": false,
+    "context": "Format example only, not a real indicator."
+  },
+  {
+    "type": "hash",
+    "value": "0000000000000000000000000000000000000000000000000000000000000000",
+    "date_added": "2026-10-26",
+    "source": "example",
+    "confidence": "low",
+    "verified": false,
+    "context": "Format example only, not a real indicator."
+  }
+]
